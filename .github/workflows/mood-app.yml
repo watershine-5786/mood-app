@@ -1,4 +1,4 @@
-name: mode-app
+name: mood-app
 
 on:
     push:
